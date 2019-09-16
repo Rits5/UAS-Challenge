@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568601910 source:c:\programming\uas-challenge\line-circle-intersection\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
